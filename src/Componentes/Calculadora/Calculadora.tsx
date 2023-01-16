@@ -5,7 +5,6 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 
 
-
 function Calculadora (){
     const [KgTotalBolsa, setKgTotalBolsa] = React.useState("");
     const [NumComidasXDia, setNumComidasXDia] = React.useState("");
