@@ -33,7 +33,8 @@ Click here for view the deployed application -> https://elisabethmartinezmembrad
 ## `Views`
 
 
-<img src="./Imagenes/view1.jpg" alt="Home" width="4000"/>
+
+<img src="./src/Imagenes/view1.jpg" alt="Home" width="4000"/>
 
 
 
