@@ -12,7 +12,6 @@ function Calculadora (){
     const [GramosXRación, setGramosXRación] = React.useState("");
     const [ResultadoCalculo, setResultadoCalculo] = React.useState(Number);
   
-    
 
     return(
         <div>
